@@ -21,13 +21,8 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.13" a="E"><vh>cover</vh>
-<v t="leo.20181101205210.1"><vh>AAA</vh></v>
-<v t="leo.20181101210159.1"><vh>BBB</vh></v>
-</v>
-<v t="leo.20181101205514.1" a="E"><vh>cover</vh>
+<v t="leo.20181101205514.1"><vh>cover</vh></v>
 <v t="leo.20181101205514.2"><vh>cover</vh></v>
-</v>
 </v>
 </v>
 </v>
@@ -114,10 +109,6 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.13">&lt;section&gt;
-@others
-&lt;/section&gt;
-</t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
 @tabwidth -4
@@ -203,41 +194,16 @@ vertical: body pane on the botton</t>
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20181101205210.1">&lt;section data-markdown&gt;
-&lt;script type="text/template"&gt;
-WWW
----
-
----
-
-BBB
-
-1. 123
-
-+ 456
-
-&lt;/script&gt;
-&lt;/section&gt;
-</t>
 <t tx="leo.20181101205514.1">&lt;section&gt;
 @others
 &lt;/section&gt;
 </t>
 <t tx="leo.20181101205514.2">&lt;section data-markdown&gt;
 &lt;script type="text/template"&gt;
-Title
+機械設計工程系
 ---
 
 AAA
-&lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20181101210159.1">&lt;section data-markdown&gt;
-&lt;script type="text/template"&gt;
-Title
----
-
-BBB
 &lt;/script&gt;
 &lt;/section&gt;
 </t>
