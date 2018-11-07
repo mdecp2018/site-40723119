@@ -21,7 +21,8 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20181101205514.1"><vh>cover</vh></v>
+<v t="leo.20181101205514.1"><vh>封面投影片</vh></v>
+<v t="leo.20181107233900.1"><vh>cover</vh></v>
 <v t="leo.20181101205514.2"><vh>cover</vh></v>
 </v>
 </v>
@@ -185,7 +186,6 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20180827201621.7">&lt;div class="reveal"&gt;
 @others
-&lt;/div&gt;
 
 </t>
 <t tx="leo.20180827201621.8">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
@@ -194,17 +194,26 @@ vertical: body pane on the botton</t>
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20181101205514.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="leo.20181101205514.2">&lt;section data-markdown&gt;
+<t tx="leo.20181101205514.1">&lt;section data-markdown&gt;
 &lt;script type="text/template"&gt;
 機械設計工程系
 ---
 
 AAA
 &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181101205514.2">&lt;section data-markdown&gt;
+&lt;script type="text/template"&gt;
+機械設計工程系
+---
+心得日記:
+
+&lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181107233900.1">&lt;section&gt;
+@others
 &lt;/section&gt;
 </t>
 </tnodes>
