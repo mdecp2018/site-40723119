@@ -196,7 +196,9 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20181101205514.1">&lt;section data-markdown&gt;
 &lt;script type="text/template"&gt;
-##week1
+week1
+&lt;br/&gt;接觸github的第一天
+&lt;br/&gt;(加br/才可以換行)
 
 &lt;/script&gt;
 &lt;/section&gt;
