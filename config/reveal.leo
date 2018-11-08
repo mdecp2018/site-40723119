@@ -21,7 +21,7 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20181101205514.2"><vh>cover</vh></v>
+<v t="leo.20181101205514.2"><vh>開頭</vh></v>
 <v t="leo.20181101205514.1"><vh>封面投影片</vh></v>
 <v t="leo.20181107233900.1"><vh>cover</vh></v>
 </v>
@@ -205,7 +205,7 @@ vertical: body pane on the botton</t>
 &lt;script type="text/template"&gt;
 機械設計工程系
 ---
-心得日記:
+計算機程式心得日記:
 
 &lt;/script&gt;
 &lt;/section&gt;
