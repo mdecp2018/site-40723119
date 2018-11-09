@@ -287,6 +287,14 @@ week7
 </t>
 <t tx="leo.20181109110342.1">&lt;section data-markdown&gt;
 &lt;script type="text/template"&gt;
+week8
+學習內容:
+
+建立不只github的遠端倉儲
+
+1.建立Gitlab的遠端倉儲
+
+2.建立Bitbucket的遠端倉儲
 &lt;/script&gt;
 &lt;/section&gt;
 </t>
