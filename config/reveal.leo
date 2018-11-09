@@ -22,8 +22,14 @@
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
 <v t="leo.20181101205514.2"><vh>開頭</vh></v>
-<v t="leo.20181101205514.1"><vh>封面投影片</vh></v>
+<v t="leo.20181101205514.1"><vh>cover</vh></v>
 <v t="leo.20181107233900.1"><vh>cover</vh></v>
+<v t="leo.20181109110320.1"><vh>cover</vh></v>
+<v t="leo.20181109110322.1"><vh>cover</vh></v>
+<v t="leo.20181109110325.1"><vh>cover</vh></v>
+<v t="leo.20181109110327.1"><vh>cover</vh></v>
+<v t="leo.20181109110335.1"><vh>cover</vh></v>
+<v t="leo.20181109110342.1"><vh>cover</vh></v>
 </v>
 </v>
 </v>
@@ -197,11 +203,19 @@ vertical: body pane on the botton</t>
 <t tx="leo.20181101205514.1">&lt;section data-markdown&gt;
 &lt;script type="text/template"&gt;
 week1
-&lt;br/&gt;接觸github的第一天
-&lt;br/&gt;(加br/才可以換行)
+學習內容:
+
+1.建立一個個人的課程網頁，並將遠端的資料下載到近端
+
+2.以python打開wsgi檔案，並得到倉儲網址
+
+3.將網頁改為靜態網頁，並將更改內容上傳遠端
+
+4以leo更改 reveal簡報內容及pelican網誌
 
 &lt;/script&gt;
 &lt;/section&gt;
+
 </t>
 <t tx="leo.20181101205514.2">&lt;section data-markdown&gt;
 &lt;script type="text/template"&gt;
@@ -212,8 +226,68 @@ week1
 &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20181107233900.1">&lt;section&gt;
-@others
+<t tx="leo.20181107233900.1">&lt;section data-markdown&gt;
+&lt;script type="text/template"&gt;
+week2
+學習內容:
+
+如何上傳影片到倉儲內
+&lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109110320.1">&lt;section data-markdown&gt;
+&lt;script type="text/template"&gt;
+week3
+學習內容:
+
+python基本運用與迴圈的使用
+&lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181109110322.1">&lt;section data-markdown&gt;
+&lt;script type="text/template"&gt;
+week4
+學習內容:
+
+1.如何在leo內編輯reaveal
+
+2.解決以圖片當作標題會產生的網頁錯誤
+&lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181109110325.1">&lt;section data-markdown&gt;
+&lt;script type="text/template"&gt;
+week5
+學習內容:
+
+將 Brython 執行過的程式, 以 save as儲存在倉儲內
+&lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181109110327.1">&lt;section data-markdown&gt;
+&lt;script type="text/template"&gt;
+week6
+學習內容:
+
+利用 git remote add ,在倉儲中以代號表示遠端倉儲連結.
+&lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181109110335.1">&lt;section data-markdown&gt;
+&lt;script type="text/template"&gt;
+week7
+學習內容:
+
+1.利用Fossil SCM建立區域網路
+
+2.利用python計算簡單的數學
+&lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181109110342.1">&lt;section data-markdown&gt;
+&lt;script type="text/template"&gt;
+&lt;/script&gt;
 &lt;/section&gt;
 </t>
 </tnodes>
